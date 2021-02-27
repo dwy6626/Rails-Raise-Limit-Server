@@ -5,7 +5,7 @@ Error will be returned if the quantity of the requests meets the threshold.
 
 ## Setup
 
-- Ruby 2.7
+- Ruby 2.7.2
 - run `bundle install` to install gems and node modules
 
 ## Test
